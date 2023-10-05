@@ -6,7 +6,6 @@ class Program {
     int choice=0;
   StockItem milk = new StockItem("1 gallon of milk", 3.60, 15);
   StockItem bread= new StockItem("1 Loaf of bread", 1.98, 30);
-    StockItem liar;
   do{
     Console.WriteLine("1. Sold One Milk\n2. Sold One Bread\n3. Change price of Milk\n4. Change price of Bread\n5. Add Milk to Inventory\n6. Add Bread to Inventory\n7. See Inventory\n8. Quit");
   choice = Convert.ToInt32(Console.ReadLine());
