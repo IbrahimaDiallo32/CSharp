@@ -1,0 +1,13 @@
+quiz1:100
+quiz2:90
+quiz3:90
+quiz4:100
+quiz5:80
+quiz6:75
+quiz7:0
+quiz8:80
+quiz9:100
+quiz10:75
+test1:80
+test2:90
+test3:85
